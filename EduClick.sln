@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduClick", "EduClick.csproj", "{D1A3EC02-AD0F-4072-82A3-72B9E5837088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A3EC02-AD0F-4072-82A3-72B9E5837088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A3EC02-AD0F-4072-82A3-72B9E5837088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A3EC02-AD0F-4072-82A3-72B9E5837088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A3EC02-AD0F-4072-82A3-72B9E5837088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215F1D95-23E1-4700-A9E7-5E3AF4FAC6B1}
+	EndGlobalSection
+EndGlobal
