@@ -3,28 +3,31 @@
   "WorkspaceRootPath": "C:\\PROYECTO 2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\educlick.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|EduClick.csproj|c:\\educlick\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A3EC02-AD0F-4072-82A3-72B9E5837088}|..\\EDUCLICK\\EduClick.csproj|c:\\educlick\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +49,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\EDUCLICK\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "..\\EDUCLICK\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\EDUCLICK\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "..\\EDUCLICK\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-23T21:52:11.963Z",
+              "DocumentIndex": 1,
+              "Title": "EduClick.csproj",
+              "DocumentMoniker": "C:\\EDUCLICK\\EduClick.csproj",
+              "RelativeDocumentMoniker": "..\\EDUCLICK\\EduClick.csproj",
+              "ToolTip": "C:\\EDUCLICK\\EduClick.csproj",
+              "RelativeToolTip": "..\\EDUCLICK\\EduClick.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T18:25:03.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\EDUCLICK\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\EDUCLICK\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\EDUCLICK\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\EDUCLICK\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T21:52:11.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\EDUCLICK\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\EDUCLICK\\Views\\Home\\Index.cshtml",
@@ -67,8 +82,7 @@
               "RelativeToolTip": "..\\EDUCLICK\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T21:46:45.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:46:45.338Z"
             },
             {
               "$type": "Document",
@@ -80,12 +94,11 @@
               "RelativeToolTip": "..\\EDUCLICK\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T21:49:01.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:49:01.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\EDUCLICK\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\EDUCLICK\\Controllers\\HomeController.cs",
@@ -98,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\EDUCLICK\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "..\\EDUCLICK\\Views\\_ViewStart.cshtml",
@@ -106,12 +119,11 @@
               "RelativeToolTip": "..\\EDUCLICK\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T21:47:56.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:47:56.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\EDUCLICK\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "..\\EDUCLICK\\Views\\_ViewImports.cshtml",
@@ -119,12 +131,11 @@
               "RelativeToolTip": "..\\EDUCLICK\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T21:47:54.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:47:54.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\EDUCLICK\\Program.cs",
               "RelativeDocumentMoniker": "..\\EDUCLICK\\Program.cs",
@@ -132,12 +143,11 @@
               "RelativeToolTip": "..\\EDUCLICK\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:47:37.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:47:37.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\EDUCLICK\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "..\\EDUCLICK\\Models\\ErrorViewModel.cs",
@@ -145,8 +155,7 @@
               "RelativeToolTip": "..\\EDUCLICK\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:46:17.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T21:46:17.119Z"
             }
           ]
         }
