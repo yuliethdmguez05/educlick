@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Iniciar Sesión";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+
+    <div class="card shadow-lg p-4 rounded-4" style="width: 400px;">
+
+        <div class="text-center mb-4">
+            <h1 class="text-primary fw-bold">EduClick</h1>
+            <p class="text-muted">Bienvenido</p>
+        </div>
+
+        <form method="post" action="/Account/Login">
+
+            <div class="mb-3">
+                <label class="form-label">Correo electrónico</label>
+                <input type="email" name="correo" class="form-control" placeholder="Ingrese su correo" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Contraseña</label>
+                <input type="password" name="clave" class="form-control" placeholder="Ingrese su contraseña" required />
+            </div>
+
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger">
+                    @ViewBag.Error
+                </div>
+            }
+
+            <div class="d-grid mb-3">
+                <button type="submit" class="btn btn-primary">
+                    Ingresar
+                </button>
+            </div>
+
+            <div class="text-center">
+                <a href="#">¿Olvidaste tu contraseña?</a>
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
