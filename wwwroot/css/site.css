@@ -1,0 +1,66 @@
+/*html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}*/
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-image: url("/imagenes/imagen_fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+ 
+   
+}
+.contenedor-logo{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    gap:10px;
+    color:navy;
+    font-family:'Comic Sans MS';
+    
+}
+.contenedor-logo img{
+    width:100px;
+    height:auto;
+}
+.encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    background-color: rgba(230,240,250,0.85);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+
+}
+nav{
+    margin-left:auto;
+}
+.bienvenida h2 {
+    font-family: 'Bookman Old Style';
+    font-size: 2rem;
+    font-weight: bold;
+    color:black;
+    text-align: left;
+    margin-left: 300px;
+    margin-block: 65px;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+    text-decoration:underline;
+}
