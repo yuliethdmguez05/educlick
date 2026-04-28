@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "registro";
+}
+
+<h1>registro</h1>
+
+<form asp-action="Registro" method="post"></form>
+
+<div>
+    <label>Nombre Completo</label>
+    <input type="text" name="Nombre" required />
+</div>
+
+<div>
+    <label>Correo Electronico</label>
+    <input type="text" name="Correo" required />
+</div>
+
+<div><
+    <label>Crear Contraseña</label>
+    <input type="text" name="Contraseña" required />
+</div>
+
+<div>
+    <label>Confirmar Contraseña</label>
+    <input type="text" name="ConfirmarContraseña"/>
+</div>
+
+<div>
+    <label>Rol</label>
+    <select name="Rol" required>
+        <option value=""seleccione un rol></option>
+        <option value="Estudiante">Estudiante</option>
+        <option value="Docente">Docente</option>
+        <option value="Acudiente">Acudiente</option>
+        <option value="Rector">Rector</option>
+    </select>
+</div>
+
+<button type="submit">Crear</button>
