@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace EduClick.Controllers
+namespace EduClick.Controllers.ADMINISTRATIVO.SECRETARIA
 {
     public class SecretariaController : Controller
     {

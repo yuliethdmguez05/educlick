@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace EduClick.Controllers
+namespace EduClick.Controllers.LOGIN
 {
     public class AccountController : Controller
     {
