@@ -1,3 +1,10 @@
 .vs/ 
 bin/ 
 obj/ 
+/Controllers/ADMINISTRATIVO/SECRETARIA/SecretariaController.cs
+/Controllers/LOGIN/logincontrolador.cs
+/wwwroot/imagenes/imagen_fondo.png
+/Program.cs
+/wwwroot/imagenes/imagen_logo.png
+/EduClick.csproj.user
+/EduClick.csproj
