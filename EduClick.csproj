@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Views\vista_registrar\" />
     <Folder Include="wwwroot\imagenes\" />
   </ItemGroup>
 
